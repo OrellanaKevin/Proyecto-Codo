@@ -1,5 +1,26 @@
-h1{
-    color:red;
-    text-align: center;
-    
+*{
+   color: white;
 }
+
+p{
+    color: black;
+
+}
+
+#Navar{
+    height: 100px;
+    background-color: rgb(88, 88, 98);
+
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+span{
+    color: red;
+}
+
+
