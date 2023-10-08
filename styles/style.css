@@ -1,26 +1,48 @@
-*{
-   color: white;
+body{
+    margin:0px;}
+header{
+    background-color: rgb(65, 67, 76);
 }
-
-p{
-    color: black;
-
+a{
+    color: white;
 }
-
-#Navar{
-    height: 100px;
-    background-color: rgb(88, 88, 98);
-
+.navbar-brand{
+    color: white;
 }
 
 .container{
-    display: flex;
     justify-content: center;
     align-items: center;
 }
 
-span{
-    color: red;
+p{text-align: center;}
+#oradores{
+    font-size: 20px;
+}
+
+#ada{
+    text-align: left;
+    font-size: x-large;
+}
+
+.card{
+    width: 100px;
+    margin: 20px;
+    overflow: hidden;
 }
 
 
+.playa{
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    padding-left:0px;
+}
+
+#boton{
+    color: white;
+    margin-top: 20px;
+}
+#orador{
+    font-size: 40px;
+}
