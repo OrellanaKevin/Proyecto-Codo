@@ -46,3 +46,21 @@ p{text-align: center;}
 #orador{
     font-size: 40px;
 }
+
+
+.botonenviar{justify-content: center;
+    align-items: center;
+    width: 40%;
+}
+
+small{text-align: center;}
+
+#formulario .row .col{
+    margin: 30px;
+}
+
+footer{
+    height: 100px;
+    background-color: rgb(33, 48, 71);
+}
+footer .container{color: white;}
